@@ -4,7 +4,7 @@ I’m thrilled to share my latest project: a dynamic weather application built w
 
 🌟 Key Features:
 
- • Live weather data with seamless updates
+ • Live weather data with seamless updates sfkjdhs
  • Detailed forecasts including temperature, humidity, and wind speed
  • User-friendly interface with intuitive design
  • Interactive weather icons for an enhanced visual experience
